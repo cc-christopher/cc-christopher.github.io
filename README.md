@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Hello there...
 
 You can use the [editor on GitHub](https://github.com/cc-christopher/cc-christopher.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### This will harbor some projects I am working with
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+However, it is stil under construction.
 
 ```markdown
 Syntax highlighted code block
